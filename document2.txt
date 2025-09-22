@@ -8,8 +8,7 @@ modification on Branch1.Document2
 modification on Branch1.Document2
 modification on Branch1.Document2
 modification on Branch1.Document2
-modification on Branch1.Document2
-modification on Branch1.
+
 {
 	int i, j, k;
 	int n1 = m - l + 1;
